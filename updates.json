@@ -3,5 +3,10 @@
     "update": "https://github.com/BariMK/civentoRelease/releases/download/darwin-x64-prod-v0.0.1/release.json",
     "install": "https://github.com/BariMK/civentoRelease/releases/download/darwin-x64-prod-v0.0.1/civento-0.0.1.dmg",
     "version": "0.0.1"
+  },
+  "linux-x64-prod": {
+    "update": "https://github.com/BariMK/civentoRelease/releases/download/linux-x64-prod-v0.0.1/civento-0.0.1-x86_64.AppImage",
+    "install": "https://github.com/BariMK/civentoRelease/releases/download/linux-x64-prod-v0.0.1/civento-0.0.1-x86_64.AppImage",
+    "version": "0.0.1"
   }
 }
